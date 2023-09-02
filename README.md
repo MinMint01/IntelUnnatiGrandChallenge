@@ -1,1 +1,1 @@
-# IntelUnnatiGrandChallenge
+# Intel Unnati Grand Challenge
