@@ -1,4 +1,4 @@
-# Intel Unnati Grand Challenge
+# Intel Unnati Grand Challenge - Team Clover
 
 This repository contains the files related to our work **"Geospatially Timed Data Analysis: Enhancing Urban Mobility Using Vehicle Movement Analysis"** as part of the Intel Unnati Grand Challenge 2023.
 
