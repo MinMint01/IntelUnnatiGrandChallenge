@@ -1,6 +1,6 @@
 # Intel Unnati Grand Challenge
 
-This repository contains the files related to our work "Smart Mobile Phone Price Prediction Using Machine Learning".
+This repository contains the files related to our work **"Geospatially Timed Data Analysis: Enhancing Urban Mobility Using Vehicle Movement Analysis"** as part of the Intel Unnati Grand Challenge 2023.
 
 ## Table of Contents
 
